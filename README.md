@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## T字形モデルダイアグラム作図ツール「MODEBI」
 
-You can use the [editor on GitHub](https://github.com/yet103/docs-modebi-Introduction/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### 主な特徴
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+事業企画／業務分析／データ実態調査／データベース設計におけるモデル図の作成を、直感的な操作で実現することができるフリーウェアです。  
+作図ルールは[TM法](http://www.sdi-net.co.jp/tm-versions.htm)に準拠しており、構文ルールに則ったモデリングが可能となります。
 
-### Markdown
+### 1.モデル図作成
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2.DB物理設計
 
-```markdown
-Syntax highlighted code block
+### 3.ローコードフレームワーク連携
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yet103/docs-modebi-Introduction/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
