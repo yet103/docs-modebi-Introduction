@@ -1,8 +1,9 @@
-## T字形モデルダイアグラム作図ツール「MODEBI」
+## T字形モデルダイアグラム作図ツール「MODEBI2(仮)」
 
 ### MODEBIとは
 
-モデル図の作成を、直感的な操作で実現することができるフリーウェアです。作図ルールは[TM法](http://www.sdi-net.co.jp/tm-versions.htm)に準拠しており、構文ルールに則ったモデリングが可能となります。
+モデル図の作成を、直感的な操作で実現することができるフリーウェアです。作図ルールは[TM法](http://www.sdi-net.co.jp/tm-versions.htm)に準拠しており、構文ルールに則ったモデリングが可能となります。   
+MODEBI2はオリジナル版に対してさらに機能を追加した後継開発バージョンとなります。
 
 ### 入手先
 [https://github.com/yet103/MODEBI2](https://github.com/yet103/MODEBI2)
