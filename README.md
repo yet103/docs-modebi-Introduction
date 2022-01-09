@@ -5,7 +5,7 @@
 モデル図の作成を、直感的な操作で実現することができるフリーウェアです。作図ルールは[TM法](http://www.sdi-net.co.jp/tm-versions.htm)に準拠しており、構文ルールに則ったモデリングが可能となります。
 
 ### 入手先
-[https://github.com/yet103/MODEBI](https://github.com/yet103/MODEBI)
+[https://github.com/yet103/MODEBI2](https://github.com/yet103/MODEBI2)
 
 ### 主な使用例
 正しく作成されたモデルは事業活動やシステム企画／運用保守などの様々な局面で大変有用に機能します。
