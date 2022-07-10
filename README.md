@@ -7,7 +7,7 @@
 MODEBI2はオリジナル版に対してさらに機能を追加した後継開発バージョンとなります。
 
 ### 入手先
-[https://github.com/yet103/MODEBI2](https://github.com/yet103/MODEBI2)
+[https://www.modebi.jp/modbi2/](https://www.modebi.jp/modbi2/)
 
 ### 主な使用例
 正しく作成されたモデルは事業活動やシステム企画／運用保守などの様々な局面で大変有用に機能します。
