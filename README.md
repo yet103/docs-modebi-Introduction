@@ -7,7 +7,7 @@
 MODEBI2はオリジナル版に対してTM3.0に準拠、および各種機能を追加した後継開発バージョンとなります。
 
 ### 入手先
-[https://www.modebi.jp/modbi2/](https://www.modebi.jp/modbi2/)
+[https://www.modebi.jp/modebi2/](https://www.modebi.jp/modebi2/)
 
 ### 主な使用例
 正しく作成されたモデルは事業活動やシステム企画／運用保守などの様々な局面で大変有用に機能します。
